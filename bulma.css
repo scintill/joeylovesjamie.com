@@ -246,12 +246,10 @@ strong {
 .button.is-link {
   background-color: transparent;
   border-color: transparent;
-  color: #4a4a4a;
   text-decoration: underline;
 }
 
 .button.is-link:hover, .button.is-link.is-hovered, .button.is-link:focus, .button.is-link.is-focused, .button.is-link:active, .button.is-link.is-active {
-  background-color: whitesmoke;
   color: #363636;
 }
 
